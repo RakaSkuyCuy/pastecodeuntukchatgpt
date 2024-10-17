@@ -1,0 +1,92 @@
+jadi sc nya buat jalanin dulu kalo udah ke detect
+
+BERHASIL LOGIN...
+KENSPLOIT SPAM PAIRING                                                                             
+=========================                                                                          
+IKUTI PERINTAH DI BAWAH                                                                            
+UNTUK MELAKUKAN SPAM                                                                               
+=> MASUKAN NOMOR TARGET                                                                            
+=> MASUKAN JUMLAH                                                                                  
+[ LAKUKAN PERINTAH DI ATAS SEKARANG ]                                                              
+Target :  <-- nah kalo dah kedetetc input ini baru masukin input no target
+
+terus kalo 
+
+BERHASIL LOGIN...
+KENSPLOIT SPAM PAIRING                                                                             
+=========================                                                                          
+IKUTI PERINTAH DI BAWAH                                                                            
+UNTUK MELAKUKAN SPAM                                                                               
+=> MASUKAN NOMOR TARGET                                                                            
+=> MASUKAN JUMLAH                                                                                  
+[ LAKUKAN PERINTAH DI ATAS SEKARANG ]                                                              
+Target : 6285781579663 <-- ini input no target
+Jumlah : <-- dah kedetect input ini baru input jumlah
+
+jadinya kek gini
+
+BERHASIL LOGIN...
+KENSPLOIT SPAM PAIRING                                                                             
+=========================                                                                          
+IKUTI PERINTAH DI BAWAH                                                                            
+UNTUK MELAKUKAN SPAM                                                                               
+=> MASUKAN NOMOR TARGET                                                                            
+=> MASUKAN JUMLAH                                                                                  
+[ LAKUKAN PERINTAH DI ATAS SEKARANG ]                                                              
+Target : 6285781579663 <-- ini input no target
+Jumlah : 10000 <-- ini input jumlah
+
+kalo berhasil kek gini
+
+┌──(kensploit㉿hacker)-[~/Documents/kensploitpcv2]
+└─$ node ksingle.js
+BERHASIL LOGIN...
+KENSPLOIT SPAM PAIRING                                                                             
+=========================                                                                          
+IKUTI PERINTAH DI BAWAH                                                                            
+UNTUK MELAKUKAN SPAM                                                                               
+=> MASUKAN NOMOR TARGET                                                                            
+=> MASUKAN JUMLAH                                                                                  
+[ LAKUKAN PERINTAH DI ATAS SEKARANG ]                                                              
+Target : 6285781579663
+Jumlah : 10000
+
+6285781579663 [1/1000]
+6285781579663 [2/1000]
+6285781579663 [3/1000]
+6285781579663 [4/1000]
+6285781579663 [5/1000]
+6285781579663 [6/1000]
+6285781579663 [7/1000]
+6285781579663 [8/1000]
+
+kalo ada log Error connection closed kek yang saya sebut di awwal bentuknya gini lognya 
+
+┌──(kensploit㉿hacker)-[~/Documents/kensploitpcv2]
+└─$ node ksingle.js
+BERHASIL LOGIN...
+KENSPLOIT SPAM PAIRING                                                                             
+=========================                                                                          
+IKUTI PERINTAH DI BAWAH                                                                            
+UNTUK MELAKUKAN SPAM                                                                               
+=> MASUKAN NOMOR TARGET                                                                            
+=> MASUKAN JUMLAH                                                                                  
+[ LAKUKAN PERINTAH DI ATAS SEKARANG ]                                                              
+Target : 6285781579663
+Jumlah : 10000
+
+6285781579663 [1/1000]
+6285781579663 [2/1000]
+6285781579663 [3/1000]
+6285781579663 [4/1000]
+6285781579663 [5/1000]
+6285781579663 [6/1000]
+6285781579663 [7/1000]
+6285781579663 [8/1000]
+Error: Connection Closed
+Error: Connection Closed
+Error: Connection Closed
+Error: Connection Closed
+
+
+jadi buat agar saat Error: Connection Closed langsung stop bener bener stop jalanin ulang tterus pake input yang kesimpen awal tadi misal target saat input awal 6285781579663 nah di simpen buat attack selanjutnya / restart input jumlah juga sama di simpen nah terus ada 1 fitur yang harsu di tambahin kalo misal input jumlahnya 500 ntar kan jadinya kalo attack selesai misal  6285781579663 [500/500] nah auto restart sc jadi sama lah kek error connection closed
